@@ -12,6 +12,7 @@ const Home = ({results}) => {
       <Head>
         <title>Hulu 2.0</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="gY-HgIJR4mA_mzHK6nzkhZV1KCxNvF81Igx5Nxtnwx4" />
       </Head>
       {/* Header */}
       <Header/>
